@@ -1,4 +1,4 @@
 # Misiones
 
-* Investigar a Demon
-* Capturar a Dr. Blood
+*Investigar a Demon
+*Capturar a Dr. Blood
